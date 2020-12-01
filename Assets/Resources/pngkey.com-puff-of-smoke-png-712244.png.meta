@@ -1,0 +1,1153 @@
+fileFormatVersion: 2
+guid: 84507fdedaa79bb4b9f908bacd260744
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8875695621673330780
+    second: pngkey.com-puff-of-smoke-png-712244_0
+  - first:
+      213: 8352513988378319771
+    second: pngkey.com-puff-of-smoke-png-712244_1
+  - first:
+      213: 8295122255796217361
+    second: pngkey.com-puff-of-smoke-png-712244_2
+  - first:
+      213: -1817410632547377056
+    second: pngkey.com-puff-of-smoke-png-712244_3
+  - first:
+      213: -3936890331934069202
+    second: pngkey.com-puff-of-smoke-png-712244_4
+  - first:
+      213: -2775930944290375
+    second: pngkey.com-puff-of-smoke-png-712244_5
+  - first:
+      213: 8655733592367217730
+    second: pngkey.com-puff-of-smoke-png-712244_6
+  - first:
+      213: 5317393579255771039
+    second: pngkey.com-puff-of-smoke-png-712244_7
+  - first:
+      213: -3280354654125368203
+    second: pngkey.com-puff-of-smoke-png-712244_8
+  - first:
+      213: 128943668775841243
+    second: pngkey.com-puff-of-smoke-png-712244_9
+  - first:
+      213: 8786547629615783242
+    second: pngkey.com-puff-of-smoke-png-712244_10
+  - first:
+      213: -6757916870320781655
+    second: pngkey.com-puff-of-smoke-png-712244_11
+  - first:
+      213: -2003003132047449912
+    second: pngkey.com-puff-of-smoke-png-712244_12
+  - first:
+      213: 6749146482054847157
+    second: pngkey.com-puff-of-smoke-png-712244_13
+  - first:
+      213: -2242361762639238238
+    second: pngkey.com-puff-of-smoke-png-712244_14
+  - first:
+      213: -1773096807397231423
+    second: pngkey.com-puff-of-smoke-png-712244_15
+  - first:
+      213: 4727855329563594308
+    second: pngkey.com-puff-of-smoke-png-712244_16
+  - first:
+      213: -5065944407486907215
+    second: pngkey.com-puff-of-smoke-png-712244_17
+  - first:
+      213: -978820615165100785
+    second: pngkey.com-puff-of-smoke-png-712244_18
+  - first:
+      213: 543097084389197064
+    second: pngkey.com-puff-of-smoke-png-712244_19
+  - first:
+      213: -1143902282103269112
+    second: pngkey.com-puff-of-smoke-png-712244_20
+  - first:
+      213: -2665402770384166314
+    second: pngkey.com-puff-of-smoke-png-712244_21
+  - first:
+      213: 4414815377536603797
+    second: pngkey.com-puff-of-smoke-png-712244_22
+  - first:
+      213: -7862641530914102960
+    second: pngkey.com-puff-of-smoke-png-712244_23
+  - first:
+      213: 5892063261900522264
+    second: pngkey.com-puff-of-smoke-png-712244_24
+  - first:
+      213: -9006775967091940702
+    second: pngkey.com-puff-of-smoke-png-712244_25
+  - first:
+      213: -1937405956651224198
+    second: pngkey.com-puff-of-smoke-png-712244_26
+  - first:
+      213: -9034425781884365341
+    second: pngkey.com-puff-of-smoke-png-712244_27
+  - first:
+      213: 5828902407781498477
+    second: pngkey.com-puff-of-smoke-png-712244_28
+  - first:
+      213: 8195147544953727349
+    second: pngkey.com-puff-of-smoke-png-712244_29
+  - first:
+      213: 9017856510184755411
+    second: pngkey.com-puff-of-smoke-png-712244_30
+  - first:
+      213: 1384417949061464660
+    second: pngkey.com-puff-of-smoke-png-712244_31
+  - first:
+      213: -4462524447426721363
+    second: pngkey.com-puff-of-smoke-png-712244_32
+  - first:
+      213: -7340492109272022852
+    second: pngkey.com-puff-of-smoke-png-712244_33
+  - first:
+      213: -4663735531031091300
+    second: pngkey.com-puff-of-smoke-png-712244_34
+  - first:
+      213: -5704592320463913511
+    second: pngkey.com-puff-of-smoke-png-712244_35
+  - first:
+      213: 3539457078823286804
+    second: pngkey.com-puff-of-smoke-png-712244_36
+  - first:
+      213: -2892715495682266811
+    second: pngkey.com-puff-of-smoke-png-712244_37
+  - first:
+      213: 5217233427510579278
+    second: pngkey.com-puff-of-smoke-png-712244_38
+  - first:
+      213: 2432902501056398871
+    second: pngkey.com-puff-of-smoke-png-712244_39
+  - first:
+      213: -7670101652583644713
+    second: pngkey.com-puff-of-smoke-png-712244_40
+  - first:
+      213: 8143761934426605253
+    second: pngkey.com-puff-of-smoke-png-712244_41
+  - first:
+      213: 2497819235962236224
+    second: pngkey.com-puff-of-smoke-png-712244_42
+  - first:
+      213: 7552655560129577449
+    second: pngkey.com-puff-of-smoke-png-712244_43
+  - first:
+      213: -4061457266710726489
+    second: pngkey.com-puff-of-smoke-png-712244_44
+  - first:
+      213: -1845723592464412881
+    second: pngkey.com-puff-of-smoke-png-712244_45
+  - first:
+      213: -1213307381218676494
+    second: pngkey.com-puff-of-smoke-png-712244_46
+  - first:
+      213: 6973085343436788186
+    second: pngkey.com-puff-of-smoke-png-712244_47
+  - first:
+      213: 1435436117684312011
+    second: pngkey.com-puff-of-smoke-png-712244_48
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7dba78bd133d480800000000000000
+      internalID: -8875695621673330780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 456.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b55ca08371ae370800000000000000
+      internalID: 8352513988378319771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_2
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 457
+        width: 125
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116ab210eb13e1370800000000000000
+      internalID: 8295122255796217361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_3
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 456.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060eef3a8a247c6e0800000000000000
+      internalID: -1817410632547377056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_4
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 457
+        width: 125
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e66650a1b5d59c0800000000000000
+      internalID: -3936890331934069202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_5
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 456.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b105263e4326fff0800000000000000
+      internalID: -2775930944290375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_6
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 456.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cb67b97d75f1870800000000000000
+      internalID: 8655733592367217730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_7
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 456.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fab7e994d2bc940800000000000000
+      internalID: 5317393579255771039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cde8772d6d972d0800000000000000
+      internalID: -3280354654125368203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_9
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 342.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd6b6565991ac100800000000000000
+      internalID: 128943668775841243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_10
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 342.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d9c49148610f970800000000000000
+      internalID: 8786547629615783242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 342.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a609e2596e0732a0800000000000000
+      internalID: -6757916870320781655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_12
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 342.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c021568347e334e0800000000000000
+      internalID: -2003003132047449912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_13
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 342.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bad4f787f8c9ad50800000000000000
+      internalID: 6749146482054847157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_14
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 342.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab28ff7bd781e0e0800000000000000
+      internalID: -2242361762639238238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_15
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 342.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c475b219d1b467e0800000000000000
+      internalID: -1773096807397231423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e431c7f57bc9140800000000000000
+      internalID: 4727855329563594308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_17
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 228.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcbdd3e66622b9b0800000000000000
+      internalID: -5065944407486907215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_18
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 228.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d314626d78a62f0800000000000000
+      internalID: -978820615165100785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_19
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 228.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8058199bbe7798700800000000000000
+      internalID: 543097084389197064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_20
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 228.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809d9716fea0020f0800000000000000
+      internalID: -1143902282103269112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_21
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 228.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652e8ef5d46920bd0800000000000000
+      internalID: -2665402770384166314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_22
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 228.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5965007f133944d30800000000000000
+      internalID: 4414815377536603797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_23
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 228.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051a1a98f2942e290800000000000000
+      internalID: -7862641530914102960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813c5b7b150d4c150800000000000000
+      internalID: 5892063261900522264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_25
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 114.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2a5f55af0810380800000000000000
+      internalID: -9006775967091940702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_26
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 114.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73f3181c83fc15e0800000000000000
+      internalID: -1937405956651224198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_27
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 114.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5d6292e954f9280800000000000000
+      internalID: -9034425781884365341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_28
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 114.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e3c366bdb64e050800000000000000
+      internalID: 5828902407781498477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_29
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 114.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579a1eab5430bb170800000000000000
+      internalID: 8195147544953727349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_30
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 114.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d09105a7bcd52d70800000000000000
+      internalID: 9017856510184755411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_31
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 114.8
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452cb7a2ac0763310800000000000000
+      internalID: 1384417949061464660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.80000305
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da942a598ade112c0800000000000000
+      internalID: -4462524447426721363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_33
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0.80000305
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb088467155512a90800000000000000
+      internalID: -7340492109272022852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_34
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0.80000305
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97268a7e35174fb0800000000000000
+      internalID: -4663735531031091300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_35
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0.80000305
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddb35e328735d0b0800000000000000
+      internalID: -5704592320463913511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_36
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0.80000305
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418f009d57dae1130800000000000000
+      internalID: 3539457078823286804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_37
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 0.80000305
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549279b35920bd7d0800000000000000
+      internalID: -2892715495682266811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_38
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0.80000305
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40df050926576840800000000000000
+      internalID: 5217233427510579278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-puff-of-smoke-png-712244_39
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 0.80000305
+        width: 125.25
+        height: 114.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71640a44fe763c120800000000000000
+      internalID: 2432902501056398871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
